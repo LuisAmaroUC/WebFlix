@@ -1,0 +1,15 @@
+.custom-select{
+    background-color:#2473A6;
+    background-size:10% 50%;
+    color:#FAFAFA;
+    border-radius: 0px 0px 0px;
+
+    width:30%;
+
+}
+.custom-select option,option{
+    background: #CFD8DC;
+    color:rgb(91, 192, 222);
+    border-bottom:1px solid #BDC3C7;
+
+}
